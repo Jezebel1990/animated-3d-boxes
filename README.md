@@ -5,6 +5,8 @@ This project consists of animated 3D boxes that can be manipulated using a magic
 ## 🚀 [Demo](https://jezebel1990.github.io/animated-3d-boxes/)
 
 Click the **"Magic 🪄"** button to toggle between box layout states. The boxes rearrange themselves and apply an animated transformation.
+![Divertidamente](https://github.com/user-attachments/assets/cafb7702-329f-493d-ae25-c7cf2bb8c14e)
+
 
 
 ## 🛠 Technologies Used
